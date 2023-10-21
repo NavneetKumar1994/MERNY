@@ -1,0 +1,7 @@
+body{
+     font-family:serif;
+     /* background-image: url('https://www.datasciencecentral.com/wp-content/uploads/2023/04/AdobeStock_133621255.jpeg'); */
+     background-color:rgb(244, 245, 239);
+     background-size:cover;
+     background-blend-mode:darken;
+}

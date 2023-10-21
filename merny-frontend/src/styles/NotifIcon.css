@@ -1,0 +1,21 @@
+.icon-container {
+     position: relative;
+   }
+   
+   .icon-pop-up {
+     display: none;
+     position: absolute;
+     right:0;
+     background-color:white;
+     border: 1px solid black;
+     padding:10px;
+     border-radius: 5px;
+     text-align: left;
+     box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 1);
+
+   }
+   
+   .icon-container:hover .icon-pop-up {
+     display: block; /* Show on hover */
+   }
+   
